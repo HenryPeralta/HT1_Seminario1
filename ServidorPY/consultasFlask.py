@@ -7,7 +7,7 @@ app.config['CORS_HEADERS'] = 'Content-Type'
 
 # Respuesta default
 respuesta = {
-    'Instancia': 'Instancia #1 - API #1',
+    'Instancia': 'Instancia #2 - API #2',
     'Curso': 'Seminario de sistemas 1',
     'Estudiante': 'Estudiante - 201712289'
 }
